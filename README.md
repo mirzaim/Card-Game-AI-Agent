@@ -1,4 +1,4 @@
-# AI_Projects
+# Card Game AI Agent
 
 This repository contains implementations of various search algorithms applied to problem-solving, focusing on a **[Simple Card Game](#simple-card-game)**.
 
